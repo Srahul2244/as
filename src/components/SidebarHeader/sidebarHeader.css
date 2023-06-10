@@ -1,0 +1,42 @@
+.sidebar_header {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    margin-bottom: 38px;
+}
+
+.sidebar_header h4 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.outer_circle {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-color: #E17CFD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.inner_circle {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-color: #4CD7F6;    
+    filter: blur(11.5px);
+    position: absolute;
+    top: 0;
+    right: 0;
+}

@@ -1,0 +1,15 @@
+.dashboard-left{
+    display:flex;
+    gap: 28px;
+    align-items: center;
+}
+.dashboard-header{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color: #575353;
+}
+.dashboard_quest{
+    height: 24px;
+    width: 24px;
+}

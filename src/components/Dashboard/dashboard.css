@@ -1,0 +1,14 @@
+.dashboard-container {
+    margin-top: 40px;
+    /* display: flex; */
+    /* gap: 307px; */
+    /* justify-content: space-between; */
+}
+
+.chart-card-container > div {
+    flex: 0.5
+}
+
+.traffic-card-container >div{
+    flex:0.5
+}

@@ -1,0 +1,15 @@
+.header-left {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.team-logo-container {
+    background: #F6F6FB;
+    border-radius: 12px;
+    width: 52px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
